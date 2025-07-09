@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "calling_code": "255"
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "calling_code": "254"
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "calling_code": "256"
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "calling_code": "234"
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "calling_code": "27"
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "calling_code": "1"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "calling_code": "44"
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "calling_code": "91"
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "calling_code": "49"
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "calling_code": "33"
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "calling_code": "86"
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "calling_code": "55"
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "calling_code": "1"
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "calling_code": "61"
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "calling_code": "54"
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "calling_code": "244"
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "calling_code": "376"
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "calling_code": "213"
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "calling_code": "355"
+  },
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "calling_code": "93"
+  }
+]
