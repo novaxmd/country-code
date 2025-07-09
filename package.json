@@ -1,7 +1,7 @@
 {
   "name": "country-code-api",
   "version": "1.0.0",
-  "description": "API to check country by calling code",
+  "description": "Simple API for country calling codes",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
