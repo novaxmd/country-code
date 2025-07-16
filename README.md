@@ -1,3 +1,5 @@
+---
+
 </div>
 
 <p align="center">
@@ -16,6 +18,8 @@
   <a href="https://github.com/bmbxmd1/BMB-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </
 
+---
+
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/novaxmd/BMB-XMD-DATA/raw/refs/heads/main/bmb.jpg">
@@ -23,6 +27,19 @@
   </a>
 </p>
 
+---
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+  <p align="center">
+<a href="https://github.com/bmbxmd1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/bmbxmd1?label=Followers&style=social"></a>
+<a href="https://github.com/bmbxmd/BMB-XMD/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/bmbxmd1/BMB-XMD?&style=social"></a>
+<a href="https://github.com/bmbxmd1/BMB-XMD/fork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bmbxmd1/BMB-XMD?style=social"></a>
+<a href="https://github.com/bmbxmd1/BMB-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bmbxmd1/BMB-XMD?label=Watching&style=social"></a>
+
+
+---
 
 ### 🟢 FOLLOW 
 [![GITHUB](https://github.com/novaxmd/BMB-XMD-DATA/raw/refs/heads/main/baton/follow_github_text.png)](https://github.com/novaxmd)
