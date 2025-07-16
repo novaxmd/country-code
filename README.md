@@ -1,5 +1,3 @@
----
-
 </div>
 
 <p align="center">
@@ -17,8 +15,6 @@
   <a href="https://github.com/bmbxmd1/BMB-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/bmbxmd1/BMB-XMD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/bmbxmd1/BMB-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </
-
----
 
 <!-- Banner Image -->
 <p align="center">
