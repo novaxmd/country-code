@@ -1,7 +1,8 @@
 const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 5000;
-const countries = require("./countries.json");
+// Path sahihi ikiwa countries.json ipo ndani ya folder ya api
+const countries = require("./api/countries.json");
 
 app.get("/", (req, res) => {
   res.send("Country Code API is running.");
