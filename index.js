@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 5000;
-// Path sahihi ikiwa countries.json ipo ndani ya folder ya api
+// nova xmd countries
 const countries = require("./api/countries.json");
 
 app.get("/", (req, res) => {
